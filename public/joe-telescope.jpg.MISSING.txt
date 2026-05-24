@@ -1,0 +1,12 @@
+Save your telescope photo (the one in the chat) to:
+
+  public/joe-telescope.jpg
+
+Recommended: 1200x1500px JPG, optimized to under 300KB.
+You can compress it at https://squoosh.app/.
+
+Used on:
+  /about       (as the headshot/portrait)
+  /astronomy   (as the section hero image)
+
+Once the file is saved, delete THIS .MISSING.txt file.
