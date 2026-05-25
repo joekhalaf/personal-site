@@ -38,9 +38,6 @@ export default function AboutPage() {
               className="object-cover"
             />
           </div>
-          <p className="mt-3 text-xs text-fog dark:text-fog-light">
-            To swap this photo, replace <code className="font-mono">public/joe-telescope.jpg</code>.
-          </p>
         </div>
 
         {/* Bio column */}
